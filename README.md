@@ -8,7 +8,7 @@ Este repositorio está destinado exclusivamente a la distribución de _releases_
 
 ## 📥 Descarga
 
-Dirígete a la sección de [Releases](https://github.com/mundoestudiante/classfy-teacher-desktop-releases/releases) para descargar la última versión disponible para tu sistema operativo.
+Dirígete a la sección de [Releases](https://github.com/mundoestudiante/classfy-teacher-desktop-app-releases/releases) para descargar la última versión disponible para tu sistema operativo.
 
 ---
 
@@ -18,20 +18,20 @@ Sigue las instrucciones según tu sistema operativo para instalar la aplicación
 
 ### **Windows**
 
-1. Descarga el archivo `.exe` de la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-releases/releases).
+1. Descarga el archivo `.exe` de la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-app-releases/releases).
 2. Haz doble clic en el archivo descargado.
 3. Sigue el asistente de instalación (NSIS) y completa el proceso. (Tal vez tengas que hacer clic en **_"Más información"_** para poder aceptar la instalación)
 4. Una vez instalado, encontrarás **Classfy Teacher Desktop App** en tu menú de inicio.
 
 ### **macOS**
 
-1. Descarga el archivo `.dmg` desde la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-releases/releases).
+1. Descarga el archivo `.dmg` desde la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-app-releases/releases).
 2. Abre el archivo `.dmg` y arrastra la aplicación a la carpeta **Aplicaciones**.
 3. Abre la aplicación desde **Aplicaciones** (puede que necesites permitir su ejecución en **Preferencias del Sistema > Seguridad y Privacidad**).
 
 ### **Linux**
 
-1. Descarga el archivo `.AppImage` o `.deb` desde la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-releases/releases).
+1. Descarga el archivo `.AppImage` o `.deb` desde la última [release](https://github.com/mundoestudiante/classfy-teacher-desktop-app-releases/releases).
 
    **Para `.AppImage`:**
 
